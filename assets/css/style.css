@@ -1,5 +1,5 @@
 body {
-  font-family: 'Oswald', 'Open Sans';
+  font-family: 'Oswald', sans-serif;
 }
 
 .bd {
@@ -22,7 +22,7 @@ hr {
 
 .introducción {
   font-weight: 600;
-  font-family: 'Open sans';
+  font-family: 'Open Sans', sans-serif;
   line-height: 40px;
   font-size: 20px;
 }
