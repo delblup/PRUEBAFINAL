@@ -20,81 +20,83 @@ hr {
   width: 200px;
 }
 
-.introducción{
+.introducción {
   font-weight: 600;
   font-family: 'Open sans';
-  line-height : 40px;
+  line-height: 40px;
   font-size: 20px;
 }
 
 .descripcion {
   font-weight: 300;
   font-family: 'Open sans';
-  line-height : 30px;
+  line-height: 30px;
   font-size: 15px;
 }
 
-
 .primero {
-border-top: 2px solid #ffffff;
-width: 200px;
+  border-top: 2px solid #ffffff;
+  width: 200px;
 }
 
-.columnas {columns: 70px 2;
-line-height: 25pt}
+.columnas {
+  columns: 70px 2;
+  line-height: 25pt
+}
 
 .segunda {
-border-top: 2px solid #000000;
-  width: 200px;
-}
-
-.tercera{
   border-top: 2px solid #000000;
   width: 200px;
-  }
+}
+
+.tercera {
+  border-top: 2px solid #000000;
+  width: 200px;
+}
 
 .mi-experiencia {
-    font-family: 'Oswald';
-    font-weight: 600;
-      }
+  font-family: 'Oswald';
+  font-weight: 600;
+}
 
-      .background {
-        background-color: #660066;
-      }
+.background {
+  background-color: #660066;
+}
+
 .fondo {
   background-color: #660066;
-
-
 }
 
-.nav{
-
+.nav {
   font-family: 'helvetica';
 }
-.de{
 
+.de {
   font-size: 4rem;
-
 }
 
-.yo{
-
+.yo {
   font-size: 3rem;
-
 }
 
-
-.expe{
-
+.expe {
   font-family: 'Open Sans';
 }
 
-.yo-soy{
-padding-top: 23rem;
+.yo-soy {
+  padding-top: 23rem;
 }
 
-.colorc {background-color: #660066;}
+.colorc {
+  background-color: #660066;
+}
 
-.carousel-indicators{
-  top:50px;
+.carousel-indicators {
+  top: 50px;
+}
+
+
+.oscuro
+{background-color: #660066;
+height: 10rem;
 }
